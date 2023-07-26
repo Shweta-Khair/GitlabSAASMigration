@@ -7,6 +7,7 @@ import org.ethereum.lists.chains.model.Chain
 
 val mandatory_fields = listOf(
         "name",
+        "id",
         "shortName",
         "chain",
         "network",
